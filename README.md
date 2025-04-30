@@ -13,6 +13,7 @@
 <a href="https://www.youtube.com/@SN_SIMANTO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snsimanto" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/snsimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snsimanto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/snsimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snsimanto" height="30" width="40" /></a>
+  <a href="snsimanto583@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
